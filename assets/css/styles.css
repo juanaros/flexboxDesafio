@@ -9,7 +9,7 @@ body {
 
 .container {
     display: flex;
-    height: 100vh;;
+    height: 100vh;
 }
 
 .menu {
@@ -77,13 +77,13 @@ body {
     font-size: 16px;
 }
 
+/* Aca se enlistan los contactos de forma vertical usando una ul */
+
 li {
     display:flex;
     align-items: center;
     border-bottom: 1px solid #ccc;
     height: 80px;
-    justify-content: left;
-
 }
 
 li img {
