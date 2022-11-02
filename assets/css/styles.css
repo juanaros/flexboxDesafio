@@ -12,9 +12,7 @@ body {
     height: 100vh;;
 }
 
-,menu {
-    background-color: white;
-    display: flex;
+.menu {
     flex-direction: column;
 }
 
