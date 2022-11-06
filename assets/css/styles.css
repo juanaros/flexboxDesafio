@@ -14,6 +14,7 @@ body {
 
 .menu {
     flex-direction: column;
+    display: flex;
 }
 
 .menuUser{
