@@ -1,5 +1,3 @@
-# flexboxDesafio
-
-Esta es una tarea que hice para Desafio Latam en el curso de Desarrollo Web Fullstack Javascript.
-
-Ayudante: Osman Perez
+## Maqueta de un sitio para chatear
+### Hecho con CSS flexbox y Html
+Disponible en pages: https://juanaros.github.io/flexboxDesafio/
